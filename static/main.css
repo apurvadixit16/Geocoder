@@ -1,0 +1,52 @@
+html,body{
+    height : 100%;
+    margin : 0;
+    }
+
+.container{
+    margin : 0 auto;
+    height : 100%;
+    width : 100%;
+    background-color : #006666;
+    color : #e6ffff;
+    overflow : hidden;
+    text-align : center;
+}
+
+.container h1{
+    font-family : Arial,sans-serif;
+    font-size : 30px;
+    color : #DDCCEE;
+    margin-top : 80px;
+    }
+
+.container input{
+    width : 350px;
+    height : 15px;
+    font-size  :15px;
+    margin : 5px;
+    padding : 20px;
+    }
+
+.container p{
+    margin : 100px;
+}
+
+.container button{
+    width : 70px;
+    height : 30px;
+    background-color : steelblue;
+    margin : 6px;
+    }
+
+.message {
+    font-size : 20px;
+    color : #ff9999;
+    margin-top : 10px;
+    text-align : center;
+}
+
+.output{
+  display: inline-block;
+    }
+
